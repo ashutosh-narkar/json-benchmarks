@@ -1,0 +1,372 @@
+{
+  "meta" : {
+    "view" : {
+      "id" : "2yrw-q8tw",
+      "name" : "LADWP Solar Incentive Program",
+      "assetType" : "dataset",
+      "attribution" : "LADWP",
+      "attributionLink" : "https://www.ladwp.com/ladwp/faces/ladwp/commercial/c-gogreen/c-gg-installsolar?_afrLoop=487268705452986&_afrWindowMode=0&_afrWindowId=16vdo6czx2_1#%40%3F_afrWindowId%3D16vdo6czx2_1%26_afrLoop%3D487268705452986%26_afrWindowMode%3D0%26_adf.ctrl-state%3D16vdo6czx2_49",
+      "averageRating" : 0,
+      "category" : "City Infrastructure & Service Requests",
+      "createdAt" : 1400025686,
+      "description" : "The Solar Incentive Program offers customers an incentive to offset the cost of installing a solar rooftop system on their home or business.  LADWP has been helping customers to go solar since 1999.  This metric measures the Net Energy Metering (NEM) Installed Capacity (Kilowatts).",
+      "displayType" : "table",
+      "downloadCount" : 2635,
+      "hideFromCatalog" : false,
+      "hideFromDataJson" : false,
+      "indexUpdatedAt" : 1536093675,
+      "licenseId" : "CC0_10",
+      "newBackend" : true,
+      "numberOfComments" : 0,
+      "oid" : 29625827,
+      "provenance" : "official",
+      "publicationAppendEnabled" : false,
+      "publicationDate" : 1536093154,
+      "publicationGroup" : 1580280,
+      "publicationStage" : "published",
+      "rowsUpdatedAt" : 1536093149,
+      "rowsUpdatedBy" : "5442-vebw",
+      "tableId" : 15492773,
+      "totalTimesRated" : 0,
+      "viewCount" : 1100,
+      "viewLastModified" : 1606757121,
+      "viewType" : "tabular",
+      "approvals" : [ {
+        "reviewedAt" : 1487718770,
+        "reviewedAutomatically" : false,
+        "state" : "approved",
+        "submissionId" : 882872,
+        "submissionObject" : "public_audience_request",
+        "submissionOutcome" : "change_audience",
+        "submittedAt" : 1487718770,
+        "workflowId" : 2212,
+        "reviewer" : {
+          "id" : "95pg-i79k",
+          "displayName" : "ChelseaU"
+        },
+        "submissionDetails" : {
+          "permissionType" : "READ"
+        },
+        "submissionOutcomeApplication" : {
+          "failureCount" : 0,
+          "status" : "success"
+        },
+        "submitter" : {
+          "id" : "95pg-i79k",
+          "displayName" : "ChelseaU"
+        }
+      } ],
+      "columns" : [ {
+        "id" : -1,
+        "name" : "sid",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":sid",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : { },
+        "flags" : [ "hidden" ]
+      }, {
+        "id" : -1,
+        "name" : "id",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":id",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : { },
+        "flags" : [ "hidden" ]
+      }, {
+        "id" : -1,
+        "name" : "position",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":position",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : { },
+        "flags" : [ "hidden" ]
+      }, {
+        "id" : -1,
+        "name" : "created_at",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":created_at",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : { },
+        "flags" : [ "hidden" ]
+      }, {
+        "id" : -1,
+        "name" : "created_meta",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":created_meta",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : { },
+        "flags" : [ "hidden" ]
+      }, {
+        "id" : -1,
+        "name" : "updated_at",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":updated_at",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : { },
+        "flags" : [ "hidden" ]
+      }, {
+        "id" : -1,
+        "name" : "updated_meta",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":updated_meta",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : { },
+        "flags" : [ "hidden" ]
+      }, {
+        "id" : -1,
+        "name" : "meta",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":meta",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : { },
+        "flags" : [ "hidden" ]
+      }, {
+        "id" : 373586434,
+        "name" : "Month/Year",
+        "dataTypeName" : "calendar_date",
+        "description" : "",
+        "fieldName" : "month_year",
+        "position" : 1,
+        "renderTypeName" : "calendar_date",
+        "tableColumnId" : 68985964,
+        "cachedContents" : {
+          "largest" : "2018-07-01T00:00:00",
+          "non_null" : 31,
+          "null" : 0,
+          "top" : [ {
+            "item" : "2016-01-01T00:00:00",
+            "count" : 20
+          }, {
+            "item" : "2016-02-01T00:00:00",
+            "count" : 19
+          }, {
+            "item" : "2016-03-01T00:00:00",
+            "count" : 18
+          }, {
+            "item" : "2016-04-01T00:00:00",
+            "count" : 17
+          }, {
+            "item" : "2016-05-01T00:00:00",
+            "count" : 16
+          }, {
+            "item" : "2016-06-01T00:00:00",
+            "count" : 15
+          }, {
+            "item" : "2016-07-01T00:00:00",
+            "count" : 14
+          }, {
+            "item" : "2016-08-01T00:00:00",
+            "count" : 13
+          }, {
+            "item" : "2016-09-01T00:00:00",
+            "count" : 12
+          }, {
+            "item" : "2016-10-01T00:00:00",
+            "count" : 11
+          }, {
+            "item" : "2016-11-01T00:00:00",
+            "count" : 10
+          }, {
+            "item" : "2016-12-01T00:00:00",
+            "count" : 9
+          }, {
+            "item" : "2017-01-01T00:00:00",
+            "count" : 8
+          }, {
+            "item" : "2017-02-01T00:00:00",
+            "count" : 7
+          }, {
+            "item" : "2017-03-01T00:00:00",
+            "count" : 6
+          }, {
+            "item" : "2017-04-01T00:00:00",
+            "count" : 5
+          }, {
+            "item" : "2017-05-01T00:00:00",
+            "count" : 4
+          }, {
+            "item" : "2017-06-01T00:00:00",
+            "count" : 3
+          }, {
+            "item" : "2017-07-01T00:00:00",
+            "count" : 2
+          }, {
+            "item" : "2017-08-01T00:00:00",
+            "count" : 1
+          } ],
+          "smallest" : "2016-01-01T00:00:00"
+        },
+        "format" : { }
+      }, {
+        "id" : 373586435,
+        "name" : "Net Energy Metering (NEM) Installed Capacity (kW)",
+        "dataTypeName" : "number",
+        "description" : "",
+        "fieldName" : "netenergymetering_installed_capacity_kw",
+        "position" : 2,
+        "renderTypeName" : "number",
+        "tableColumnId" : 19711916,
+        "width" : 700,
+        "cachedContents" : {
+          "largest" : "253228",
+          "non_null" : 31,
+          "average" : "210168",
+          "null" : 0,
+          "top" : [ {
+            "item" : "154754",
+            "count" : 20
+          }, {
+            "item" : "159021",
+            "count" : 19
+          }, {
+            "item" : "164137",
+            "count" : 18
+          }, {
+            "item" : "168636",
+            "count" : 17
+          }, {
+            "item" : "173209",
+            "count" : 16
+          }, {
+            "item" : "177199",
+            "count" : 15
+          }, {
+            "item" : "180912",
+            "count" : 14
+          }, {
+            "item" : "184873",
+            "count" : 13
+          }, {
+            "item" : "187684",
+            "count" : 12
+          }, {
+            "item" : "193601",
+            "count" : 11
+          }, {
+            "item" : "196101",
+            "count" : 10
+          }, {
+            "item" : "198274",
+            "count" : 9
+          }, {
+            "item" : "201715",
+            "count" : 8
+          }, {
+            "item" : "206267",
+            "count" : 7
+          }, {
+            "item" : "209791",
+            "count" : 6
+          }, {
+            "item" : "215140",
+            "count" : 5
+          }, {
+            "item" : "218292",
+            "count" : 4
+          }, {
+            "item" : "221798",
+            "count" : 3
+          }, {
+            "item" : "224588",
+            "count" : 2
+          }, {
+            "item" : "226368",
+            "count" : 1
+          } ],
+          "smallest" : "154754",
+          "sum" : "6515208"
+        },
+        "format" : { }
+      } ],
+      "grants" : [ {
+        "inherited" : false,
+        "type" : "viewer",
+        "flags" : [ "public" ]
+      } ],
+      "license" : {
+        "name" : "Creative Commons 1.0 Universal (Public Domain Dedication)",
+        "logoUrl" : "images/licenses/ccZero.png",
+        "termsLink" : "http://creativecommons.org/publicdomain/zero/1.0/legalcode"
+      },
+      "metadata" : {
+        "rdfSubject" : "0",
+        "custom_fields" : {
+          "Committed Update Frequency" : {
+            "Refresh rate" : "Quarterly"
+          },
+          "Location Specified" : {
+            "Does this data have a Location column? (Yes or No)" : "No"
+          },
+          "Data Owner" : {
+            "Department" : "LADWP"
+          }
+        },
+        "availableDisplayTypes" : [ "table", "fatrow", "page" ]
+      },
+      "owner" : {
+        "id" : "hb8e-gdsp",
+        "displayName" : "LA DWP OpenData",
+        "profileImageUrlLarge" : "/api/users/hb8e-gdsp/profile_images/LARGE",
+        "profileImageUrlMedium" : "/api/users/hb8e-gdsp/profile_images/THUMB",
+        "profileImageUrlSmall" : "/api/users/hb8e-gdsp/profile_images/TINY",
+        "screenName" : "LA DWP OpenData",
+        "type" : "interactive",
+        "flags" : [ "mayBeStoriesCoOwner" ]
+      },
+      "query" : { },
+      "rights" : [ "read" ],
+      "tableAuthor" : {
+        "id" : "hb8e-gdsp",
+        "displayName" : "LA DWP OpenData",
+        "profileImageUrlLarge" : "/api/users/hb8e-gdsp/profile_images/LARGE",
+        "profileImageUrlMedium" : "/api/users/hb8e-gdsp/profile_images/THUMB",
+        "profileImageUrlSmall" : "/api/users/hb8e-gdsp/profile_images/TINY",
+        "screenName" : "LA DWP OpenData",
+        "type" : "interactive",
+        "flags" : [ "mayBeStoriesCoOwner" ]
+      },
+      "tags" : [ "local solar", "sip", "net energy metering" ],
+      "flags" : [ "default", "ownerMayBeContacted", "restorable", "restorePossibleForType" ]
+    }
+  },
+  "data" : [ [ "row-kdap_btr5_b7m2", "00000000-0000-0000-6E47-5E99BD211A49", 0, 1536093167, null, 1536093167, null, "{ }", "2016-01-01T00:00:00", "154754" ]
+, [ "row-ux8g-5gxy~9uby", "00000000-0000-0000-9FF8-0CA21EABDAD5", 0, 1536093167, null, 1536093167, null, "{ }", "2016-02-01T00:00:00", "159021" ]
+, [ "row-pjty_frdn-mcg3", "00000000-0000-0000-8773-0DF75AF9AB90", 0, 1536093167, null, 1536093167, null, "{ }", "2016-03-01T00:00:00", "164137" ]
+, [ "row-aj9u~wjp7~fma8", "00000000-0000-0000-C4F8-BA6497B34A43", 0, 1536093167, null, 1536093167, null, "{ }", "2016-04-01T00:00:00", "168636" ]
+, [ "row-8nc8.kc8m_ubm2", "00000000-0000-0000-6CA0-4E033147B169", 0, 1536093167, null, 1536093167, null, "{ }", "2016-05-01T00:00:00", "173209" ]
+, [ "row-8ckv.7am9.arze", "00000000-0000-0000-C795-48D46D8B2726", 0, 1536093167, null, 1536093167, null, "{ }", "2016-06-01T00:00:00", "177199" ]
+, [ "row-ff7z~qjph.g5ty", "00000000-0000-0000-A3CB-BA868189B1D4", 0, 1536093167, null, 1536093167, null, "{ }", "2016-07-01T00:00:00", "180912" ]
+, [ "row-vnfs~3uxn-4b28", "00000000-0000-0000-DEF9-78DEE6DBC12C", 0, 1536093167, null, 1536093167, null, "{ }", "2016-08-01T00:00:00", "184873" ]
+, [ "row-rpi2~ub49-juve", "00000000-0000-0000-9D03-F30B9F2CBB7E", 0, 1536093167, null, 1536093167, null, "{ }", "2016-09-01T00:00:00", "187684" ]
+, [ "row-hmc9.eiyx_grie", "00000000-0000-0000-21E2-345982493C1F", 0, 1536093167, null, 1536093167, null, "{ }", "2016-10-01T00:00:00", "193601" ]
+, [ "row-j7zm-3z2h-9b4b", "00000000-0000-0000-9491-E4D17F562837", 0, 1536093167, null, 1536093167, null, "{ }", "2016-11-01T00:00:00", "196101" ]
+, [ "row-i4wv-4vkd.ishb", "00000000-0000-0000-8439-79328F08395D", 0, 1536093167, null, 1536093167, null, "{ }", "2016-12-01T00:00:00", "198274" ]
+, [ "row-i3mh_9shu.6bcp", "00000000-0000-0000-3070-A89D9E6625AA", 0, 1536093167, null, 1536093167, null, "{ }", "2017-01-01T00:00:00", "201715" ]
+, [ "row-pfps_wbcv.bcae", "00000000-0000-0000-2DF3-61C2371496A5", 0, 1536093167, null, 1536093167, null, "{ }", "2017-02-01T00:00:00", "206267" ]
+, [ "row-g894.24cv_5mda", "00000000-0000-0000-E4F4-1C828C8B3C45", 0, 1536093167, null, 1536093167, null, "{ }", "2017-03-01T00:00:00", "209791" ]
+, [ "row-uedx-v73t-yha2", "00000000-0000-0000-7B8B-9B1474536769", 0, 1536093167, null, 1536093167, null, "{ }", "2017-04-01T00:00:00", "215140" ]
+, [ "row-ye2u~23aa-gssg", "00000000-0000-0000-42DB-7D2035C5A13A", 0, 1536093167, null, 1536093167, null, "{ }", "2017-05-01T00:00:00", "218292" ]
+, [ "row-g4yt~stx4_az4j", "00000000-0000-0000-9B58-F4F010039DED", 0, 1536093167, null, 1536093167, null, "{ }", "2017-06-01T00:00:00", "221798" ]
+, [ "row-st9m.4xzc-diaj", "00000000-0000-0000-284E-12DB89FEA3D9", 0, 1536093167, null, 1536093167, null, "{ }", "2017-07-01T00:00:00", "224588" ]
+, [ "row-shsq~5xxv-rvgi", "00000000-0000-0000-B01E-BE97DB89E70C", 0, 1536093167, null, 1536093167, null, "{ }", "2017-08-01T00:00:00", "226368" ]
+, [ "row-xvks.bi6w-eye8", "00000000-0000-0000-BD18-AC61ED03E567", 0, 1536093167, null, 1536093167, null, "{ }", "2017-09-01T00:00:00", "228958" ]
+, [ "row-w4v9_faya~7y9p", "00000000-0000-0000-5CFC-CB713A764802", 0, 1536093167, null, 1536093167, null, "{ }", "2017-10-01T00:00:00", "232938" ]
+, [ "row-keqd-cymc-9ucc", "00000000-0000-0000-DE15-ECE4E19875AF", 0, 1536093167, null, 1536093167, null, "{ }", "2017-11-01T00:00:00", "235098" ]
+, [ "row-7nsb-9caq-mavj", "00000000-0000-0000-EB26-CFD62351E11D", 0, 1536093167, null, 1536093167, null, "{ }", "2017-12-01T00:00:00", "236748" ]
+, [ "row-rbsh_cwty-wvf2", "00000000-0000-0000-DCFE-8195BA3B1B6A", 0, 1536093167, null, 1536093167, null, "{ }", "2018-01-01T00:00:00", "238778" ]
+, [ "row-tbmg-24p5.h5hh", "00000000-0000-0000-B41C-29B44E47AD97", 0, 1536093167, null, 1536093167, null, "{ }", "2018-02-01T00:00:00", "240858" ]
+, [ "row-7p46.gahc_rcqe", "00000000-0000-0000-1CF8-AB78D79D30E0", 0, 1536093167, null, 1536093167, null, "{ }", "2018-03-01T00:00:00", "242608" ]
+, [ "row-3dad.8wrt.s53b", "00000000-0000-0000-8B2D-C01E64C9C65F", 0, 1536093167, null, 1536093167, null, "{ }", "2018-04-01T00:00:00", "244278" ]
+, [ "row-3kae_3hha_hh5x", "00000000-0000-0000-1016-A57AC4377E31", 0, 1536093167, null, 1536093167, null, "{ }", "2018-05-01T00:00:00", "248828" ]
+, [ "row-uhxn.5pvh.7eax", "00000000-0000-0000-A593-7137DD31AAF5", 0, 1536093167, null, 1536093167, null, "{ }", "2018-06-01T00:00:00", "250528" ]
+, [ "row-k58g_gban~45h6", "00000000-0000-0000-EA2F-C5E1FE50A402", 0, 1536093167, null, 1536093167, null, "{ }", "2018-07-01T00:00:00", "253228" ]
+ ]
+}
